@@ -5,8 +5,8 @@
 - batch_size `64`로 변경
 
 🐰 2번째 시도
-- batch_size `128`로 변경
+- batch_size `256`로 변경
 
 🐰 3번째 시도
-- batch_size `256`로 변경
-- optimizer `SGD`
+- batch_size `256`로 고정
+- optimizer `SGD`로 변경
