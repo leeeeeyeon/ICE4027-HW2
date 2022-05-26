@@ -6,3 +6,7 @@
 
 🐰 2번째 시도
 - batch_size `128`로 변경
+
+🐰 3번째 시도
+- batch_size `256`로 변경
+- optimizer `SGD`
