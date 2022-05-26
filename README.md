@@ -10,3 +10,8 @@
 🐰 3번째 시도
 - batch_size `256`로 고정
 - optimizer `SGD`로 변경
+
+🐰 4번째 시도
+- optimizer `Adamax`
+- learning rate 0.002
+- Accuracy 90% 넘음
