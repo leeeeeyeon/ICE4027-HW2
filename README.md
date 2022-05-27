@@ -13,9 +13,5 @@
 - lr이 0.1로, 기존과 달라 비교가 불가하므로 lr을 0.002로 하여 다시 훈련해보아야 함
 
 🐰 4번째 시도
-- optimizer `Adamax`
-- learning rate 0.1
-
-🐰 5번째 시도
 - optimizer `SGD`
 - lr = 0.002
