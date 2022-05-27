@@ -14,4 +14,4 @@
 🐰 4번째 시도
 - optimizer `Adamax`
 - learning rate 0.002
-- Accuracy 90% 넘음
+- ~Accuracy 90% 넘음~
