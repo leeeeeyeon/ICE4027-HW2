@@ -18,6 +18,3 @@
 
 🐰 5번째 시도
 - optimizer가 Adamax일 때 learning rate를 0.004로 변경
-
-🐰 6번째 시도
-- optimizer가 Adamax일 때 learning rate를 0.02로 변경
