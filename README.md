@@ -15,3 +15,6 @@
 🐰 4번째 시도
 - optimizer `SGD`
 - lr = 0.002
+
+🐰 5번째 시도
+- optimizer가 Adamax일 때 learning rate를 0.004로 변경
